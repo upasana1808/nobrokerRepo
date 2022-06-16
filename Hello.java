@@ -1,3 +1,5 @@
+
+//please add some code here  to welcome the customer
 public class Hello
 {
   public static void main(String[] args)
@@ -5,4 +7,5 @@ public class Hello
   System.out.println("Hello from main");
   }
 }
+
 
